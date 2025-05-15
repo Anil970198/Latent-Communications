@@ -1,0 +1,16 @@
+/temp
+denseresidential97.tif
+Forest_2.jpg
+hd image.jpg
+hd-image.jpeg
+photo.jpeg
+receiver_sdvae_gfpgan.py
+receiver_sdvae_gfpgan_boot.py
+revised 4-2 timetable.pdf
+.idea/
+__pycache__/
+.DS_Store
+.gitignore.swp
+models/taming-transformers/
+gfpgan/weights/*.pth
+models/*.ckpt
