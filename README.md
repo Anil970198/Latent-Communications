@@ -18,7 +18,7 @@ This approach reduces transmission size while preserving visual quality, offerin
 
 ## 🧱 Project File Structure
 
-![Architecture Diagram](Latent-Communications/arch.png)
+![Architecture Diagram](https://github.com/AnilGit9701/Latent-Communications/blob/7c66ce7242b464ee53b16f6d55fb1997fe48ff8d/arch.png)
 
 ```text
 Latent-Communications/
@@ -129,7 +129,7 @@ python sender_sdvae.py
 
 ### ✅ Output:
 
-![Original vs Reconstructed Output](Latent-Communications/results.png)
+![Original vs Reconstructed Output]((https://github.com/AnilGit9701/Latent-Communications/blob/7c66ce7242b464ee53b16f6d55fb1997fe48ff8d/results.png))
 
 * Matplotlib display:
 
