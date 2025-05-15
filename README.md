@@ -18,6 +18,8 @@ This approach reduces transmission size while preserving visual quality, offerin
 
 ## 🧱 Project File Structure
 
+![Architecture Diagram](https://github.com/AnilGit9701/Latent-Communications/blob/7c66ce7242b464ee53b16f6d55fb1997fe48ff8d/arch.png)
+
 ```text
 Latent-Communications/
 ├── sender_sdvae.py                 # Encodes image to latent, compresses, and sends via socket
@@ -127,6 +129,8 @@ python sender_sdvae.py
 
 ### ✅ Output:
 
+![Original vs Reconstructed Output](https://github.com/AnilGit9701/Latent-Communications/blob/7c66ce7242b464ee53b16f6d55fb1997fe48ff8d/results.png)
+
 * Matplotlib display:
 
   * Left: Original image
@@ -184,3 +188,5 @@ You are free to use, modify, and distribute with credit.
 ## ✉️ Contact
 
 For questions or suggestions, feel free to open an issue or contact [@Anil970198](https://github.com/Anil970198).
+![arch.png](../../PyCharm%20Projects/encoders/arch.png)
+![results.png](../../PyCharm%20Projects/encoders/results.png)
